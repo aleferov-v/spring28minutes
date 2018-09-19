@@ -1,0 +1,4 @@
+2018-09-20 00:18:50.368 DEBUG 87065 --- [           main] f.a.AutowiredAnnotationBeanPostProcessor : Autowiring by type from bean name 'binarySearchImpl' to bean named 'bubbleSortAlgoritm'
+2018-09-20 00:23:05.834 DEBUG 89541 --- [           main] f.a.AutowiredAnnotationBeanPostProcessor : Autowiring by type from bean name 'binarySearchImpl' to bean named 'bubbleSortAlgoritm'
+2018-09-20 00:24:00.567 DEBUG 90017 --- [           main] f.a.AutowiredAnnotationBeanPostProcessor : Autowiring by type from bean name 'binarySearchImpl' to bean named 'bubbleSortAlgoritm'
+2018-09-20 00:27:01.838 DEBUG 91735 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Autowiring by type from bean name 'binarySearchImpl' via constructor to bean named 'bubbleSortAlgoritm'
